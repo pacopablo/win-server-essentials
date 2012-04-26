@@ -27,7 +27,7 @@ Download the following tools:
 
 * Git_
 * Vim_: Vim may not be for everyone, but if it's for you, it's hard to be
-  without the installer from the Cream_ project allows for silent installs.
+  without it.  The installer from the Cream_ project allows for silent installs.
 
 * PuTTY_: pretty much the one and only SSH client on Windows
 * 7zip_: The solution for all your (de)compression needs
